@@ -1,0 +1,7 @@
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\OoltewahHTTPServer.exe.config
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\OoltewahHTTPServer.exe
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\OoltewahHTTPServer.pdb
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\Ooltewah.csprojResolveAssemblyReference.cache
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\Ooltewah.csproj.CoreCompileInputs.cache
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\OoltewahHTTPServer.exe
+C:\Users\canes\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\OoltewahHTTPServer.pdb

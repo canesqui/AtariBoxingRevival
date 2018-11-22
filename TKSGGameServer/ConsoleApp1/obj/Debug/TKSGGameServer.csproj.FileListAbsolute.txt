@@ -1,0 +1,7 @@
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\bin\Debug\TKSGGameServer.exe.config
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\bin\Debug\TKSGGameServer.exe
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\bin\Debug\TKSGGameServer.pdb
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\obj\Debug\TKSGGameServer.csprojAssemblyReference.cache
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\obj\Debug\TKSGGameServer.csproj.CoreCompileInputs.cache
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\obj\Debug\TKSGGameServer.exe
+C:\Users\canes\Source\Repos\TKSGGameServer\ConsoleApp1\obj\Debug\TKSGGameServer.pdb
